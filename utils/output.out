@@ -1,0 +1,177 @@
+entering : cINN
+this is a folder?: True
+this is a file?: False
+entering : Peurifoyaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+This is not a folder Peurifoyaggregate_plot_minlog_quan2575.png
+entering : MDN
+this is a folder?: True
+this is a file?: False
+entering : Yang_simaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+This is not a folder Yang_simaggregate_plot_minlog_quan2575.png
+entering : NA_init_lr_0.01_decay_0.9_batch_2048
+this is a folder?: True
+this is a file?: False
+entering : INN
+this is a folder?: True
+this is a file?: False
+entering : VAE
+this is a folder?: True
+this is a file?: False
+entering : Chenaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+This is not a folder Chenaggregate_plot_minlog_quan2575.png
+entering : cINN
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = cINN
+shape of mse_min_list is: (200, 1)
+entering : Peurifoyaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+skipping due to it is not a directory
+entering : MDN
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = MDN
+shape of mse_min_list is: (200, 1)
+entering : Yang_simaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+skipping due to it is not a directory
+entering : NA_init_lr_0.01_decay_0.9_batch_2048
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = NA_init_lr_0.01_decay_0.9_batch_2048
+shape of mse_min_list is: (200, 1)
+entering : INN
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = INN
+shape of mse_min_list is: (200, 1)
+entering : VAE
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = VAE
+shape of mse_min_list is: (200, 1)
+entering : Chenaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+skipping due to it is not a directory
+All the keys= dict_keys(['cINN', 'MDN', 'NA_init_lr_0.01_decay_0.9_batch_2048', 'INN', 'VAE'])
+All color keys= dict_keys(['cINN', 'MDN', 'NA_init_lr_0.01_decay_0.9_batch_2048', 'INN', 'VAE'])
+key =  INN
+key =  MDN
+key =  NA_init_lr_0.01_decay_0.9_batch_2048
+key =  VAE
+key =  cINN
+[<matplotlib.lines.Line2D object at 0x7f66f35d1410>, <matplotlib.lines.Line2D object at 0x7f66f35d1cd0>, <matplotlib.lines.Line2D object at 0x7f66f35ed490>, <matplotlib.lines.Line2D object at 0x7f66f3616290>, <matplotlib.lines.Line2D object at 0x7f66f3616e10>]
+entering : cINN
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = cINN
+shape of mse_min_list is: (200, 1)
+entering : Peurifoyaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+skipping due to it is not a directory
+entering : MDN
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = MDN
+shape of mse_min_list is: (200, 1)
+entering : Yang_simaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+skipping due to it is not a directory
+entering : NA_init_lr_0.01_decay_0.9_batch_2048
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = NA_init_lr_0.01_decay_0.9_batch_2048
+shape of mse_min_list is: (200, 1)
+entering : INN
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = INN
+shape of mse_min_list is: (200, 1)
+entering : VAE
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = VAE
+shape of mse_min_list is: (200, 1)
+entering : Chenaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+skipping due to it is not a directory
+All the keys= dict_keys(['cINN', 'MDN', 'NA_init_lr_0.01_decay_0.9_batch_2048', 'INN', 'VAE'])
+All color keys= dict_keys(['cINN', 'MDN', 'NA_init_lr_0.01_decay_0.9_batch_2048', 'INN', 'VAE'])
+key =  INN
+key =  MDN
+key =  NA_init_lr_0.01_decay_0.9_batch_2048
+key =  VAE
+key =  cINN
+[<matplotlib.lines.Line2D object at 0x7f66f2d44550>, <matplotlib.lines.Line2D object at 0x7f66f2d44d90>, <matplotlib.lines.Line2D object at 0x7f66f2d65550>, <matplotlib.lines.Line2D object at 0x7f66f2d65cd0>, <matplotlib.lines.Line2D object at 0x7f66f2d6b490>]
+entering : cINN
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = cINN
+shape of mse_min_list is: (200, 1)
+entering : Peurifoyaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+skipping due to it is not a directory
+entering : MDN
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = MDN
+shape of mse_min_list is: (200, 1)
+entering : Yang_simaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+skipping due to it is not a directory
+entering : NA_init_lr_0.01_decay_0.9_batch_2048
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = NA_init_lr_0.01_decay_0.9_batch_2048
+shape of mse_min_list is: (200, 1)
+entering : INN
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = INN
+shape of mse_min_list is: (200, 1)
+entering : VAE
+this is a folder?: True
+this is a file?: False
+The quan2575 error range shape is  (2, 200)
+dirs = VAE
+shape of mse_min_list is: (200, 1)
+entering : Chenaggregate_plot_minlog_quan2575.png
+this is a folder?: False
+this is a file?: True
+skipping due to it is not a directory
+All the keys= dict_keys(['cINN', 'MDN', 'NA_init_lr_0.01_decay_0.9_batch_2048', 'INN', 'VAE'])
+All color keys= dict_keys(['cINN', 'MDN', 'NA_init_lr_0.01_decay_0.9_batch_2048', 'INN', 'VAE'])
+key =  INN
+key =  MDN
+key =  NA_init_lr_0.01_decay_0.9_batch_2048
+key =  VAE
+key =  cINN
+[<matplotlib.lines.Line2D object at 0x7f66f2bd5150>, <matplotlib.lines.Line2D object at 0x7f66f2bd5950>, <matplotlib.lines.Line2D object at 0x7f66f2bd7110>, <matplotlib.lines.Line2D object at 0x7f66f2bd7890>, <matplotlib.lines.Line2D object at 0x7f66f2b90050>]

@@ -1,0 +1,49 @@
+Traceback (most recent call last):
+  File "delete.py", line 24, in <module>
+    for folders in os.listdir(input_dir):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/sr365/MM_bench_multi_eval/NA_init/'
+cat: parameters.py: No such file or directory
+Process 3692699 has finished
+current folder is: /home/sr365/MM_bench_multi_eval/cINN/Chen
+current folder is: /home/sr365/MM_bench_multi_eval/cINN/Yang_sim
+current folder is: /home/sr365/MM_bench_multi_eval/cINN/Peurifoy
+current folder is: /home/sr365/MM_bench_multi_eval/Tandem/Chen
+current folder is: /home/sr365/MM_bench_multi_eval/Tandem/Yang_sim
+current folder is: /home/sr365/MM_bench_multi_eval/Tandem/Peurifoy
+current folder is: /home/sr365/MM_bench_multi_eval/MDN/Chen
+current folder is: /home/sr365/MM_bench_multi_eval/MDN/Yang_sim
+current folder is: /home/sr365/MM_bench_multi_eval/MDN/Peurifoy
+current folder is: /home/sr365/MM_bench_multi_eval/NA/Chen
+current folder is: /home/sr365/MM_bench_multi_eval/NA/Yang_sim
+current folder is: /home/sr365/MM_bench_multi_eval/NA/Peurifoy
+current folder is: /home/sr365/MM_bench_multi_eval/INN/Chen
+current folder is: /home/sr365/MM_bench_multi_eval/INN/Yang_sim
+current folder is: /home/sr365/MM_bench_multi_eval/INN/Peurifoy
+current folder is: /home/sr365/MM_bench_multi_eval/VAE/Chen
+current folder is: /home/sr365/MM_bench_multi_eval/VAE/Yang_sim
+current folder is: /home/sr365/MM_bench_multi_eval/VAE/Peurifoy
+cat: parameters.py: No such file or directory
+Process 3692882 has finished
+Process 3693604 has finished
+Process: 3693716 is still running
+Process 3694388 has finished
+Process 3693716 has finished
+Process: 442620 is still running
+Process: 442620 is still running
+Process 442620 has finished
+Process 452301 has finished
+Process: 2592485 is still running
+Process 2592485 has finished
+Process: 2600593 is still running
+Process: 2600593 is still running
+Process 2600593 has finished
+Process: 2605542 is still running
+Process 2605542 has finished
+Process: 2607068 is still running
+Process: 2607068 is still running
+Process: 2612481 is still running
+Process: 2612481 is still running
+Process 2612481 has finished
+Process 2693688 has finished
+Process 2700440 has finished
+Process 2701934 has finished
